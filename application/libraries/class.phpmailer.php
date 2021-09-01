@@ -82,7 +82,7 @@ class PHPMailer {
    * @var string
    */
  // public $From              = 'root@localhost';
-  public $From              = 'priscillapremdeepika@gmail.com';
+  public $From              = 'priscillapremdeepika@outlook.net';
 
   /**
    * Sets the From name of the message.

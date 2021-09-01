@@ -68,25 +68,10 @@
     </div>
  
 
-          <!--   <div class="form-group">
-                         <label for="filename" >Select File to Upload</label>
-                        <input type="file" class="form-control" name="filename" size="20" />
-                        <span class="text-danger"><?php if (isset($error)) { echo $error; } ?></span>
-                  
-            </div>
-
-            <div class="form-group">
-                 <input type="submit" value="Upload File" class="btn btn-primary"/>
-                  
-                </div>
-
- -->
           <div>
-          <input type = "file" name = "userfile" size = "20" /> 
-         <br /><br /> 
-         <input type = "submit" value = "upload" /> 
-       </div>
-
+            <input type="file" name="userfile">
+            <!-- <input type="submit" value="Upload"> -->
+          </div>
 
     <div class="text-center">
       <button class="btn btn-primary" name="register">Register</button>
